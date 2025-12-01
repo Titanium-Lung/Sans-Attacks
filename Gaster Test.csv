@@ -1,0 +1,6 @@
+0,Sound,Flash,,,
+0,HeartMode,0,,,
+0,HeartTeleport,320,310,,
+0,CombatZoneResizeInstant,239,226,404,391
+1,GasterBlaster,1,500,300,320,500,270,0.7,4
+10,EndAttack,,,,

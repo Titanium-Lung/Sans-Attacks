@@ -1,0 +1,8 @@
+0,Sound,Flash,,,,,,,
+0,HeartMode,0,,,,,,,
+0,HeartTeleport,320,310,,,,,,
+0,CombatZoneResizeInstant,150,226,493,391,,,,
+0,RND,Height,300,,,,,,
+0,ADD,Height,$Height,10,,,,,
+0,BoneV,500,300,$Height,2,400,0,,
+10,EndAttack,,,,,,,,
