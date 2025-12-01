@@ -6,4 +6,4 @@ To use, download the CSV file that you want to play the attack of, navigate to t
 
 # The Attacks
 
-_Claustrophobia.csv_ is currently my only finished attack. _Cool Attack Name.csv_ is a work in progress, and the rest are tests. 
+_Claustrophobia.csv_ is currently my only finished attack. _Cool Attack Name.csv_ is still a work in progress.
