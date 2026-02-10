@@ -6,4 +6,4 @@ To use, download the CSV file that you want to play the attack of, navigate to t
 
 # The Attacks
 
-_Claustrophobia.csv_ is currently my only finished attack. _Burn.csv_ is still a work in progress.
+_Claustrophobia.csv_ is a fun full fight with silly Sans dialogue. _Stronger.csv_ was made for a music video, so is more meant to be watched than played. _Burn.csv_ is still a work in progress.
